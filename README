@@ -1,0 +1,7 @@
+## start demo
+
+npm i ionic cordova -g
+
+cd myApp && npm i
+
+ionic serve -lcs
